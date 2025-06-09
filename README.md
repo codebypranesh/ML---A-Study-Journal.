@@ -13,6 +13,7 @@ The goal of this repo is to document my learning journey, practice important ML 
 ## 📌 Topics Covered (So Far)
 
 - Linear Regression
+- Logistic Regression
 - *(More topics will be added as I progress)*
 
 ---
